@@ -1,0 +1,4 @@
+{:paths ["src"]
+ :deps
+ {clj-http/clj-http {:mvn/version "3.12.3"}
+  http-kit/http-kit {:mvn/version "2.3.0"}}}
